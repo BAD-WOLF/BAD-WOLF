@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Matheus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   
-  <img align="center" alt="Matheus-Vim/NeoVim" height="30" width="40" src="https://styles.redditmedia.com/t5_30kix/styles/communityIcon_n2hvyn96zwk81.png?width=256&s=b2cd2f9dcc0cfbf94eee5a640f115dfca33dee1d"/>
+  <img align="center" alt="Matheus-Vim/NeoVim" height="30" width="40" src="https://styles.redditmedia.com/t5_30kix/styles/communityIcon_n2hvyn96zwk81.png"/>
 
   <img align="center" alt="Matheus-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
   <img align="center" alt="Matheus-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://c.tenor.com/mw0Zuc8nL50AAAAC/garfield-waving.gif">
 
 </div>
