@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+## Aqui estão algumas das minhas ideias:
 
 - 🔭 no momento estou trabalhando em usar um bot para se comunicar através dele com outos usuários no Telegram.</br>
 <a href="https://github.com/BAD-WOLF/Bot-test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=Bot-test&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00"/></a>
