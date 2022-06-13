@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 - 🌱 atualmente estou aprendendo a linguagem php orientada a objetos, herança e poliformismo 
 - 🤝 Procuro ajudar com...
 - 📫 How to reach me: ... </br>
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=BAD-WOLF)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BAD-WOLF)](https://github.com/anuraghazra/github-readme-stats)
