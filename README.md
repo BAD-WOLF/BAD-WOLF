@@ -31,7 +31,9 @@ Here are some ideas to get you started:
   <img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-0bpteseCh8tyWXe311xL3YBIPakP-AjwQ&usqp=CAU">
 
 </div>
+
 ##
+
 <div> 
 
   <a href="http://Wa.me//5511946732020" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
