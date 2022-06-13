@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Matheus-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-  <img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-0bpteseCh8tyWXe311xL3YBIPakP-AjwQ&usqp=CAU">
+  <img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://thumbs2.imgbox.com/40/14/k3HYfKtU_t.png">
 
 </div>
 
