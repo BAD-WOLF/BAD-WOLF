@@ -5,8 +5,7 @@
 - 🔭 No momento estou trabalhando no desenvolvimento de um chat via bot para usuários do Telegram.</br>
 <a href="https://github.com/BAD-WOLF/Bot-test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=Bot-test&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00"/></a>
 - 🌱 Atualmente estou aprendendo a linguagem php orientada a objetos</br>
-<div><
-       input type="checkbox" id="scales" name="scales"checked/>~encapsulamento~ <input type="checkbox" id="scales" name="scales"/>herança <input type="checkbox" id="scales" name="scales"/>polimorfismo
+<div><input type="checkbox" id="scales" name="scales"checked/>~encapsulamento~ <input type="checkbox" id="scales" name="scales"/>herança <input type="checkbox" id="scales" name="scales"/>polimorfismo
 </div>
 - 🤝 Procuro ajudar desenvolvedores e consumidores com meus projetos.</br>
 <div>
@@ -22,7 +21,7 @@
   <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-2
+
   <img align="center" alt="Matheus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   
   <img align="center" alt="Matheus-Vim/NeoVim" height="30" width="40" src="https://styles.redditmedia.com/t5_30kix/styles/communityIcon_n2hvyn96zwk81.png"/>
