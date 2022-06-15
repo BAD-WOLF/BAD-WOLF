@@ -5,7 +5,9 @@
 - 🔭 No momento estou trabalhando no desenvolvimento de um chat via bot para usuários do Telegram.</br>
 <a href="https://github.com/BAD-WOLF/Bot-test"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=Bot-test&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00"/></a>
 - 🌱 Atualmente estou aprendendo a linguagem php orientada a objetos</br>
-        - [x] ~encapsulamento~ - [ ] herança - [ ] polimorfismo
+<div><
+       input type="checkbox" id="scales" name="scales"checked/>~encapsulamento~ <input type="checkbox" id="scales" name="scales"/>herança <input type="checkbox" id="scales" name="scales"/>polimorfismo
+</div>
 - 🤝 Procuro ajudar desenvolvedores e consumidores com meus projetos.</br>
 <div>
   <img style="height:125pt;" src="https://github-readme-stats.vercel.app/api?username=BAD-WOLF&count_private=true&custom_title=Matheus+Vieira+//+GitHub+Status&theme=merko&border_color=FF00FF&title_color=00FF00&border_radius=18"/>
