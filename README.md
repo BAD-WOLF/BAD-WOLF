@@ -2,8 +2,8 @@
 
 ### Aqui estão algumas das minhas ideias:
 
-- 🔭 No momento estou trabalhando no desenvolvimento de um chat via bot para usuários do Telegram.</br>
-<a href="https://github.com/BAD-WOLF/Bot-test">![](https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=Bot-test&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00)</a>
+- 🔭 No momento estou trabalhando em:</br>
+<a href="https://github.com/BAD-WOLF/OOP_PHP">![](https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=OOP_PHP&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00)</a>
 - 🌱 Atualmente estou aprendendo a linguagem php orientada a objetos
 - [x] ~encapsulamento~
 - [ ] herança 
@@ -51,6 +51,6 @@
   <a href = "mailto:matheusviaira137@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheu-vieira-40a36923b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
