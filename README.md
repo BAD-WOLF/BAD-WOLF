@@ -5,6 +5,7 @@
 - 🔭 No momento estou trabalhando em:</br>
 <a href="https://github.com/BAD-WOLF/OOP_PHP">![](https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=OOP_PHP&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00)</a>
 - 🌱 Atualmente estou aprendendo a linguagem php orientada a objetos
+- [x] ~abstração~
 - [x] ~encapsulamento~
 - [ ] herança 
 - [ ] polimorfismo 
