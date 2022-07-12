@@ -10,7 +10,13 @@
 - [ ] herança 
 - [ ] polimorfismo 
 - 🧑‍💻 Já estudei na prática:
---
+ - HTML/CSS
+ - PHP
+ - Python 
+ - C/C++
+ - Linux
+- 🧐 Tenho conhecimento dos consertos:
+ - MySQL
 - 🤝 Procuro ajudar desenvolvedores e consumidores com meus projetos.</br>
 <div>
   <img style="height:125pt;" src="https://github-readme-stats.vercel.app/api?username=BAD-WOLF&count_private=true&custom_title=Matheus+Vieira+//+GitHub+Status&theme=merko&border_color=FF00FF&title_color=00FF00&border_radius=18"/>
