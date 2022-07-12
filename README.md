@@ -38,7 +38,7 @@
   
   <img align="center" alt="Matheus-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 
-  <img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://thumbs2.imgbox.com/40/14/k3HYfKtU_t.png">
+  <a href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d?backTo=https%3A%2F%2Fcognus.hunterco.com.br%2Fview%2F62ccac6f56df1e001e688e7b%3FtmpAuth%3Dc9c9ebf0016d11edba226b9bbdcaaf43&back_to=https%3A%2F%2Fvagas.hunterco.com.br%2Ftasks%3Fc%3D4740"><img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://thumbs2.imgbox.com/40/14/k3HYfKtU_t.png"></a>
 
 </div>
 
@@ -46,12 +46,12 @@
 
 <div> 
 
-  <a href="http://WA.me//5571984056597" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ > <a href="http://WA.me//5571984056597" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://t.me/MATHEU_API" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/W5uNbEEH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusviaira137@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheu-vieira-40a36923b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  
+<a href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d?backTo=https%3A%2F%2Fcognus.hunterco.com.br%2Fview%2F62ccac6f56df1e001e688e7b%3FtmpAuth%3Dc9c9ebf0016d11edba226b9bbdcaaf43&back_to=https%3A%2F%2Fvagas.hunterco.com.br%2Ftasks%3Fc%3D4740">Um pouco mais sobre mim</a>
   
 </div>
