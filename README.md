@@ -24,7 +24,7 @@
 - 🤝 Procuro ajudar desenvolvedores e consumidores com meus projetos.</br>
 <div>
   <img style="height:125pt;" src="https://github-readme-stats.vercel.app/api?username=BAD-WOLF&count_private=true&custom_title=Matheus+Vieira+//+GitHub+Status&theme=merko&border_color=FF00FF&title_color=00FF00&border_radius=18"/>
-  <img style="height:125pt;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAD-WOLF&repo=Bot-test&show_owner=true&theme=merko&border_color=FF00FF&layout=compact&border_radius=18&custom_title=Linguagens+Mais+Usadas &title_color=FFFF00"/>
+  <img style="height:125pt;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAD-WOLF&repo=Bot-test&show_owner=true&theme=merko&border_color=FF00FF&layout=compact&border_radius=18&custom_title=Linguagens+Mais+Usadas&title_color=FFFF00"/>
 </div>
 <div style="display: inline_block"><br>
 
