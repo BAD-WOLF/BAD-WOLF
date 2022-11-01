@@ -9,7 +9,7 @@
 - 🌱 Atualmente estou aprendendo a linguagem php orientada a objetos
 - [x] ~abstração~
 - [x] ~encapsulamento~
-- [ ] herança 
+- [x] ~herança~
 - [ ] polimorfismo 
 - 🧑‍💻 Já estudei na prática:
   - HTML/CSS
