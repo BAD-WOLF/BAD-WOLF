@@ -25,6 +25,7 @@
   - Python 
   - C/C++
   - Linux
+  - git
 - 🧐 Tenho conhecimento dos conceitos:
   - JavaScript 
   - Java
