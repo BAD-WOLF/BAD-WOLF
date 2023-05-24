@@ -1,23 +1,31 @@
-## Hi there 👋
+## HELLO 👋
 
 ![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
 
-### Aqui estão algumas das minhas ideias:
+### Aqui estão algumas coisas sobre mim:
 
-- 🔭 No momento estou trabalhando em:</br>
+- 🔭 No momento estou mexendo em:</br>
 <a href="https://github.com/BAD-WOLF/OOP_PHP">![](https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=OOP_PHP&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00)</a>
-- 🌱 Atualmente estou aprendendo a linguagem php orientada a objetos
-- [x] ~abstração~
-- [x] ~encapsulamento~
-- [x] ~herança~
-- [ ] polimorfismo 
+- 🌱 Meu caminho na linguagem de programação php:
+
+  - ja estudei:
+    - [x] Fundamentos da programação
+    - [x] Programação procedural básica 
+    - [x] Modularização e reutilização de código
+    
+  - estou estudando:
+      - orientação a objetos:
+        - [x] ~abstração~
+        - [x] ~encapsulamento~
+        - [x] ~herança para diferença~
+        - [ ] polimorfismo 
 - 🧑‍💻 Já estudei na prática:
   - HTML/CSS
   - PHP
   - Python 
   - C/C++
   - Linux
-- 🧐 Tenho conhecimento dos consertos:
+- 🧐 Tenho conhecimento dos conceitos:
   - JavaScript 
   - Java
   - MySQL
