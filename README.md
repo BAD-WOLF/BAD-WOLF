@@ -12,13 +12,11 @@
     - [x] Fundamentos da programação
     - [x] Programação procedural básica 
     - [x] Modularização e reutilização de código
-    
-  - estou estudando:
-      - orientação a objetos:
-        - [x] ~abstração~
-        - [x] ~encapsulamento~
-        - [x] ~herança para diferença~
-        - [ ] polimorfismo 
+    - orientação a objetos:
+        - [x] abstração
+        - [x] encapsulamento
+        - [x] herança para diferença
+        - [x] polimorfismo 
 - 🧑‍💻 Já estudei na prática:
   - HTML/CSS
   - PHP
