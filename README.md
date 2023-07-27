@@ -33,7 +33,8 @@
   <img style="height:125pt;" src="https://github-readme-stats.vercel.app/api?username=BAD-WOLF&count_private=true&custom_title=Matheus+Vieira+//+GitHub+Status&theme=merko&border_color=FF00FF&title_color=00FF00&border_radius=18"/>
   <img style="height:125pt;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAD-WOLF&repo=provatede_dev&show_owner=true&theme=merko&border_color=FF00FF&layout=compact&border_radius=18&custom_title=Linguagens+Mais+Usadas&title_color=FFFF00"/>
 </div>
-<div style="display: inline_block"><br>
+</br>
+<div style="display: inline_block">
 
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 
@@ -57,7 +58,9 @@
   
   <img align="center" alt="Matheus-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 
-  <a href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d?backTo=https%3A%2F%2Fcognus.hunterco.com.br%2Fview%2F62ccac6f56df1e001e688e7b%3FtmpAuth%3Dc9c9ebf0016d11edba226b9bbdcaaf43&back_to=https%3A%2F%2Fvagas.hunterco.com.br%2Ftasks%3Fc%3D4740"><img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://github.com/BAD-WOLF/BAD-WOLF/blob/22c7c4d42aaee923a53b9aa80d7df8f64338d9c0/225-2256592_natsuki-by-blujumper-on-subaru-re-zero-png-removebg-preview%20(1).png"></a>
+  <a href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d?backTo=https%3A%2F%2Fcognus.hunterco.com.br%2Fview%2F62ccac6f56df1e001e688e7b%3FtmpAuth%3Dc9c9ebf0016d11edba226b9bbdcaaf43&back_to=https%3A%2F%2Fvagas.hunterco.com.br%2Ftasks%3Fc%3D4740">
+  <img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://github.com/BAD-WOLF/BAD-WOLF/blob/22c7c4d42aaee923a53b9aa80d7df8f64338d9c0/225-2256592_natsuki-by-blujumper-on-subaru-re-zero-png-removebg-preview%20(1).png">
+  </a>
 
 </div>
 
@@ -65,13 +68,22 @@
 
 <div> 
 
- <a href="http://WA.me//5571984056597" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- <a href="https://t.me/MATHEU_API" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/invite/2VeHCRz9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- <a href = "mailto:matheusviaira160@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/matheu-vieira-40a36923b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="http://WA.me//5571984056597" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+ </a>
+ <a href="https://t.me/MATHEU_API" target="_blank">
+   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/invite/2VeHCRz9" target="_blank">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ <a href = "mailto:matheusviaira160@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/matheu-vieira-40a36923b/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
 
-<a href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d?backTo=https%3A%2F%2Fcognus.hunterco.com.br%2Fview%2F62ccac6f56df1e001e688e7b%3FtmpAuth%3Dc9c9ebf0016d11edba226b9bbdcaaf43&back_to=https%3A%2F%2Fvagas.hunterco.com.br%2Ftasks%3Fc%3D4740"><img style="width:500px; height:50px;" src="https://raw.githubusercontent.com/BAD-WOLF/BAD-WOLF/main/DImageEditor202207112241160.jpg" alt="Um pouco mais sobre mim"></a>
+<a href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d?backTo=https%3A%2F%2Fcognus.hunterco.com.br%2Fview%2F62ccac6f56df1e001e688e7b%3FtmpAuth%3Dc9c9ebf0016d11edba226b9bbdcaaf43&back_to=https%3A%2F%2Fvagas.hunterco.com.br%2Ftasks%3Fc%3D4740">
+<img style="width:500px; height:50px;" src="https://raw.githubusercontent.com/BAD-WOLF/BAD-WOLF/main/DImageEditor202207112241160.jpg" alt="Um pouco mais sobre mim">
+</a>
   
 </div>
 
