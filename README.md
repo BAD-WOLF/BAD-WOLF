@@ -90,4 +90,4 @@
   
 </div>
 
-[![.github/workflows/Cobrinha.yml](https://github.com/BAD-WOLF/BAD-WOLF/actions/workflows/Cobrinha.yml/badge.svg)](https://github.com/BAD-WOLF/BAD-WOLF/actions/workflows/Cobrinha.yml)
+[![Sneck gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/ocean.gif);
