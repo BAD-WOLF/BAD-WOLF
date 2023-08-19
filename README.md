@@ -90,4 +90,4 @@
   
 </div>
 
-[![Sneck gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/ocean.gif);
+![Sneck gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/github-snake-dark.svg)
