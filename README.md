@@ -90,4 +90,4 @@
   
 </div>
 
-![snake gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/github-contribution-grid-snake.svg)
+[![.github/workflows/Cobrinha.yml](https://github.com/BAD-WOLF/BAD-WOLF/actions/workflows/Cobrinha.yml/badge.svg)](https://github.com/BAD-WOLF/BAD-WOLF/actions/workflows/Cobrinha.yml)
