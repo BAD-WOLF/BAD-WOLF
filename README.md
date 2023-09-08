@@ -1,6 +1,6 @@
 ## HELLO 👋
 
-![gif github](icons/gif/icons8-github.gif)
+![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
 
 ### Aqui estão algumas coisas sobre mim:
 
