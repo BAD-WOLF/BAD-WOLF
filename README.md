@@ -15,6 +15,7 @@
     <li>Fundamentos da programação</li>
     <li>Programação procedural básica</li>
     <li>Modularização e reutilização de código</li>
+    <br/>
     <li>
       <details>
         <summary>Orientação a objetos:</summary>
@@ -23,6 +24,20 @@
           <li>Encapsulamento</li>
           <li>Herança</li>
           <li>Polimorfismo</li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>Freamework ( 𝓢𝓯 . ):</summary>
+        <ul>
+          <li>Instalação e configuração do Symfony</li>
+          <li>Desenvolvimento de aplicações web com Symfony</li>
+          <li>Utilização de bundles e extensões</li>
+          <li>Gestão de rotas e controladores</li>
+          <li>Integração de templates Twig</li>
+          <li>Autenticação e autorização</li>
+          <li>Testes de unidade e funcionais</li>
         </ul>
       </details>
     </li>
@@ -42,6 +57,20 @@
       </details>
     </li>
     <li>
+    <details>
+      <summary>Doctrine:</summary>
+      <ul>
+        <li>Mapeamento objeto-relacional (ORM)</li>
+        <li>Configuração e utilização do Doctrine</li>
+        <li>Entidades e relacionamentos</li>
+        <li>Consulta e manipulação de dados com DQL</li>
+        <li>Ciclo de vida das entidades</li>
+        <li>Migrações de banco de dados</li>
+        <li>Integração com Symfony</li>
+      </ul>
+    </details>
+    </li>
+    <li>
       <details>
         <summary>Python:</summary>
         <ul>
@@ -53,20 +82,33 @@
     </li>
     <li>
       <details>
-        <summary>C/C++:</summary>
+        <summary>Docker:</summary>
         <ul>
-          <li>Sintaxe básica e estruturas de controle</li>
-          <li>Ponteiros e alocação dinâmica de memória</li>
-          <li>Estruturas de dados e algoritmos básicos</li>
+          <li>Conceitos fundamentais de containers</li>
+          <li>Criação e gerenciamento de containers</li>
         </ul>
       </details>
     </li>
     <li>
       <details>
-        <summary>Docker:</summary>
+        <summary>MySQL:</summary>
         <ul>
-          <li>Conceitos fundamentais de containers</li>
-          <li>Criação e gerenciamento de containers</li>
+          <li>Fundamentos do banco de dados MySQL</li>
+          <li>Modelagem de dados relacionais</li>
+          <li>Consulta e manipulação de dados</li>
+          <li>Gestão de índices e otimização de consultas</li>
+          <li>Utilização de transações e controle de concorrência</li>
+          <li>Desenvolvimento de aplicações com MySQL</li>
+        </ul>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>C/C++:</summary>
+        <ul>
+          <li>Sintaxe básica e estruturas de controle</li>
+          <li>Ponteiros e alocação dinâmica de memória</li>
+          <li>Estruturas de dados e algoritmos básicos</li>
         </ul>
       </details>
     </li>
