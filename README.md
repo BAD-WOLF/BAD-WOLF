@@ -178,6 +178,10 @@
   <img align="center" alt="Matheus-PHP" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Matheus-Symfony" height="30" width="40" src="icons/icons8-symfony.svg" />
+  <img align="center" alt="Matheu-Doctrine" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" />
+  <img align="center" alt="Matheus-React_Native" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Matheus-Python" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="Matheus-C" height="30" width="40"
