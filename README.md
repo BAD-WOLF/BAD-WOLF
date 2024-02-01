@@ -187,7 +187,7 @@
   <img align="center" alt="Matheus-C" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Matheus-Vim/NeoVim" height="30" width="40"
-    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="center" alt="Matheus-MySql" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Matheus-Linux" height="30" width="40"
