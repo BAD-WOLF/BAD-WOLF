@@ -29,7 +29,7 @@
     </li>
     <li>
       <details>
-        <summary>Freamework ( 𝓢𝓯 . ):</summary>
+        <summary>Freamework ( 𝑺𝒇. ):</summary>
         <ul>
           <li>Instalação e configuração do Symfony</li>
           <li>Desenvolvimento de aplicações web com Symfony</li>
