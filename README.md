@@ -194,7 +194,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Matheus-Docker" height="30" width="40" src="icons/icons8-docker.svg" />
   <img align="center" alt="Matheus-Ubuntu" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+    src="icons/ubuntu-logo-png-ubuntu-computer-icons-long-term-support-canonical-gifts-panels-920x512-removebg-preview.png" />
   <img align="center" alt="Matheus-Git" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img align="center" alt="Matheus-GitHub" height="30" width="40"
