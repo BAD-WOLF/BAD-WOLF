@@ -237,4 +237,4 @@
   </a>
 </div>
 
-![Sneck gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/github-snake-dark.svg)
+![Sneck gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/github-contribution-grid-snake-dark.svg)
