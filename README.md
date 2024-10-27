@@ -1,12 +1,14 @@
 ## Olá! 👋
 
-![GitHub Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
+<center>
+  <img src=https://github.com/BAD-WOLF/BAD-WOLF/blob/main/output-onlinegiftools.gif?raw=true align="right"/>
+</center>
 
 ### Sobre mim:
 
 <details>
   <summary>🔭 Atualmente, estou trabalhando em:</summary>
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=STUDIES&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00/>
+  <img src=https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=SYMFONY_STUDIES&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00/>
 </details>
 
 <details>
