@@ -1,5 +1,7 @@
 ## Olá! 👋
 
+![image](https://github.com/user-attachments/assets/94fdd78a-7bcb-46a5-9a80-6e0c8cf39d76)
+
 <center>
   <img src=https://github.com/BAD-WOLF/BAD-WOLF/blob/main/output-onlinegiftools.gif?raw=true align="right"/>
 </center>
