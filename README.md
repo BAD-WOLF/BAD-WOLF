@@ -10,14 +10,14 @@
 
 <details>
   <summary>🔭 Atualmente, estou trabalhando em:</summary>
-  <img src=https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=SYMFONY_STUDIES&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00/>
+  <img src=https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=MatheusVieira_Portfolio&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00/>
 </details>
 
 <details>
   <summary>🌱 Meu percurso na programação PHP:</summary>
   <ul>
     <li>Fundamentos da programação</li>
-    <li><a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio">Programação procedural básica</a></li>
+    <li><a href="https://github.com/BAD-WOLF/STUDIES/tree/master/procedural/claculator">Programação procedural básica</a></li>
     <li>Modularização e reutilização de código</li>
     <br/>
     <li>
