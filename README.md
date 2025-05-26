@@ -7,7 +7,7 @@
 </a>
 
 ## Sobre mim
-### logo a baixo temos um summary que quando vc clica na setinha ele expande mais informações sobre mim:
+### logo a baixo temos um summary que quando vc clica na setinha (▶️) ele expande mais informações sobre mim:
 <details>
   <summary>🔭 Atualmente, estou trabalhando em:</summary>
   <a href=https://github.com/BAD-WOLF/MatheusVieira_Portfolio>
