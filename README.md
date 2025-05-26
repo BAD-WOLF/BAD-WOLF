@@ -6,8 +6,8 @@
   <img src=https://github.com/BAD-WOLF/BAD-WOLF/blob/2f92913fe35cd8e5d64429ce1adce0e59bedf258/output-onlinegiftools.gif align="right"/>
 </a>
 
-### Sobre mim:
-
+## Sobre mim
+### logo a baixo temos um summary que quando vc clica na setinha ele expande mais informações sobre mim:
 <details>
   <summary>🔭 Atualmente, estou trabalhando em:</summary>
   <a href=https://github.com/BAD-WOLF/MatheusVieira_Portfolio>
