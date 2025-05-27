@@ -12,8 +12,8 @@
 
 <details>
   <summary>🔭 Atualmente, estou trabalhando em:</summary>
-  <a href=https://github.com/BAD-WOLF/MatheusVieira_Portfolio>
-    <img src=https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=MatheusVieira_Portfolio&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00/>
+  <a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAD-WOLF&repo=MatheusVieira_Portfolio&show_owner=true&theme=merko&border_color=00FF00&border_radius=18&title_color=FFFF00" />
   </a>
 </details>
 
