@@ -238,7 +238,7 @@
   </a>
 
   <a
-    href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d?backTo=https%3A%2F%2Fcognus.hunterco.com.br%2Fview%2F62ccac6f56df1e001e688e7b%3FtmpAuth%3Dc9c9ebf0016d11edba226b9bbdcaaf43&back_to=https%3A%2F%2Fvagas.hunterco.com.br%2Ftasks%3Fc%3D4740">
+    href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d">
     <img style="width:500px; height:50px;"
       src="https://raw.githubusercontent.com/BAD-WOLF/BAD-WOLF/main/DImageEditor202207112241160.jpg"
       alt="Mais sobre mim">
