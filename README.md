@@ -8,7 +8,7 @@
   <img src=https://github.com/BAD-WOLF/BAD-WOLF/blob/2f92913fe35cd8e5d64429ce1adce0e59bedf258/output-onlinegiftools.gif align="right"/>
 </a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AB2AF7&multiline=true&repeat=false&width=435&lines=Clique+nos+t%C3%ADtulos+abaixo;para+expandir+informa%C3%A7%C3%B5es!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AB2AF7&multiline=true&repeat=false&width=435&lines=Clique+nos+t%C3%ADtulos+abaixo;para+expandir+mais+informa%C3%A7%C3%B5es!" alt="Typing SVG" /></a>
 
 <details>
   <summary>🔭 Atualmente, estou trabalhando em:</summary>
