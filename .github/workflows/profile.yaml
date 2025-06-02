@@ -20,9 +20,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name BAD-WOLF
+          git config user.email matheusviaira160@gmail.com
+          node remove-bg.js
           git add -A .
-          if git commit -m "generated"; then
+          if git commit -m "profile svg generated"; then
             git push
           fi
