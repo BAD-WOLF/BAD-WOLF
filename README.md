@@ -1,8 +1,8 @@
-## Olá! 👋
-
 ![image](https://github.com/user-attachments/assets/94fdd78a-7bcb-46a5-9a80-6e0c8cf39d76)
 
 #
+
+![3D GitHub Profile](https://raw.githubusercontent.com/BAD-WOLF/BAD-WOLF/ccb2fa55676879fd0d6dbd1e1a786dd8311a6a46/profile-3d-contrib/profile-night-rainbow.svg)
 
 <a href=https://github.com/BAD-WOLF/MatheusVieira_Portfolio>
   <img src=https://github.com/BAD-WOLF/BAD-WOLF/blob/2f92913fe35cd8e5d64429ce1adce0e59bedf258/output-onlinegiftools.gif align="right"/>
