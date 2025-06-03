@@ -20,18 +20,18 @@
 <details>
   <summary>🌱 Meu percurso na programação PHP:</summary>
   <ul>
-    <li>Fundamentos da programação</li>
+    <li><a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio/tree/develop/PHP/Fundamentos">Fundamentos da programação</a></li>
     <li><a href="https://github.com/BAD-WOLF/STUDIES/tree/master/procedural/claculator">Programação procedural básica</a></li>
-    <li>Modularização e reutilização de código</li>
+    <li><a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio/tree/develop/PHP/Fundamentos/exemplos/functions">Modularização e reutilização de código</a></li>
     <br/>
     <li>
       <details>
         <summary>Orientação a objetos:</summary>
         <ul>
-          <li>Abstração</li>
-          <li>Encapsulamento</li>
-          <li>Herança</li>
-          <li>Polimorfismo</li>
+          <li><a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio/blob/develop/PHP/OrientacaoObjetos/exemplos/abstracao.php">Abstração</a></li>
+          <li><a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio/blob/develop/PHP/OrientacaoObjetos/exemplos/encapsulamento.php">Encapsulamento</a></li>
+          <li><a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio/blob/develop/PHP/OrientacaoObjetos/exemplos/heranca.php">Herança</a></li>
+          <li><a href="https://github.com/BAD-WOLF/MatheusVieira_Portfolio/blob/develop/PHP/OrientacaoObjetos/exemplos/polimorfismo.php">Polimorfismo</a></li>
         </ul>
       </details>
     </li>
@@ -57,7 +57,7 @@
   <ul>
     <li>
       <details>
-        <summary>HTML/CSS:</summary>
+        <summary><a href="https://github.com/BAD-WOLF/bad-wolf.github.io/tree/63c473535ed894e300179d7f5cc345d47afe7929">HTML/CSS</a></summary>
         <ul>
           <li>Estruturação e estilização de páginas web</li>
           <li>Design responsivo</li>
