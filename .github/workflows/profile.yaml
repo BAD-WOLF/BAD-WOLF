@@ -31,4 +31,5 @@ jobs:
           git config user.email matheusviaira160@gmail.com
           git checkout -B output
           git add -A
-          git diff --quiet || (git commit -m "profile svg generated" && git push origin output --force)
+          git commit -am "profile svg generated" || echo "No changes to commit"
+          git push origin output --force
