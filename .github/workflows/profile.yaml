@@ -1,18 +1,20 @@
-name: GitHub-Profile-3D-Contrib
+name: Generate GitHub Profile Visuals
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
-  workflow_dispatch:      # Permite execução manual
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+  workflow_dispatch:       # Permite execução manual
+  push:
+    branches:
+      - master             # Executa em push no master
 
 permissions:
-  contents: write         # Permite push no repositório
+  contents: write          # Permite commit/push
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -20,20 +22,38 @@ jobs:
         with:
           node-version: 20
 
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # Gera os SVGs do gráfico 3D de contribuições
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
+      # Gera os SVGs do "Snake"
+      - name: Generate GitHub Contribution Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Move os SVGs 3D para a pasta "dist/" para facilitar o push unificado
+      - name: Move 3D SVGs to dist
         run: |
-          node remove-bg.js
-          git config user.name "BAD-WOLF"
-          git config user.email "matheusviaira160@gmail.com"
-          git add -A
-          git stash
-          git checkout -B output
-          git stash pop
-          git add -A
-          git commit -m "profile svg generated" || echo "No changes to commit"
-          git push origin output --force
+          mkdir -p dist/3d
+          cp -r profile-3d-contrib/*.svg dist/3d/
+
+      # Adiciona tratamento (ex: remover fundo) se necessário
+      - name: Run post-processing (optional)
+        run: |
+          node remove-bg.js || echo "remove-bg.js não encontrado ou não necessário"
+
+      # Commit e push dos arquivos gerados para o branch output
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
