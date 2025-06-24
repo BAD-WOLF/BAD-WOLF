@@ -2,7 +2,7 @@
 
 #
 
-![3D GitHub Profile](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/profile-3d-contrib/profile-night-rainbow.svg)
+![3D GitHub Profile](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/3d/profile-3d-contrib/profile-night-rainbow.svg)
 
 <a href=https://github.com/BAD-WOLF/MatheusVieira_Portfolio>
   <img src=https://github.com/BAD-WOLF/BAD-WOLF/blob/2f92913fe35cd8e5d64429ce1adce0e59bedf258/output-onlinegiftools.gif align="right"/>
