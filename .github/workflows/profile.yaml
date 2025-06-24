@@ -30,7 +30,9 @@ jobs:
           node remove-bg.js
           git config user.name "BAD-WOLF"
           git config user.email "matheusviaira160@gmail.com"
+          git stash
           git checkout -B output
+          git stash pop
           git add -A
           git commit -m "profile svg generated" || echo "No changes to commit"
           git push origin output --force
