@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Diretório onde estão os SVGs
-const inputDir = path.join(__dirname, 'profile-3d-contrib');
+const inputDir = path.join(__dirname, 'dist/3d');
 
 // Função para substituir qualquer valor de fill dentro da classe .fill-bg
 function replaceFillBgStyle(svgText) {
