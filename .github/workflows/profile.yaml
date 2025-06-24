@@ -20,9 +20,6 @@ jobs:
           node-version: 20
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          target_branch: output
-          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -32,5 +29,6 @@ jobs:
           node remove-bg.js
           git config user.name BAD-WOLF
           git config user.email matheusviaira160@gmail.com
+          git checkout -B output
           git add -A
-          git diff --quiet || (git commit -m "profile svg generated" && git push)
+          git diff --quiet || (git commit -m "profile svg generated" && git push origin output --force)
