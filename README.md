@@ -192,8 +192,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Matheus-Python" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Matheus-C" height="30" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Matheus-C" height="30" width="30"
+    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
+  <img align="center" alt="Matheus-C#" height="30" width="40"
+    src="https://github.com/user-attachments/assets/9b7e9934-58f4-465b-bb32-2259983c7408" />
   <img align="center" alt="Matheus-Vim/NeoVim" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="center" alt="Matheus-MySql" height="30" width="40"
