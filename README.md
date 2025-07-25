@@ -211,7 +211,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 
-<a href="https://cognus.hunterco.com.br/disc/report/62ccacec56df1e001e688e9d">
+<a href="https://cognus.hunterco.com.br/disc/report/6882c14d96aaa5001d4043b6">
   <img align="right" alt="Matheus-GIF" height="150" style="border-radius:50px;" src="https://github.com/BAD-WOLF/BAD-WOLF/blob/22c7c4d42aaee923a53b9aa80d7df8f64338d9c0/225-2256592_natsuki-by-blujumper-on-subaru-re-zero-png-removebg-preview%20(1).png">
 </a>
   
