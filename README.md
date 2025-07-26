@@ -196,6 +196,8 @@
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" />
   <img align="center" alt="Matheus-C#" height="30" width="40"
     src="https://github.com/user-attachments/assets/9b7e9934-58f4-465b-bb32-2259983c7408" />
+  <img align="center" alt="Matheus-Unity" height="30" width="30"
+    src="https://github.com/user-attachments/assets/ca7be13b-faa5-4e83-8d3b-7d017f896502" />
   <img align="center" alt="Matheus-Vim/NeoVim" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img align="center" alt="Matheus-MySql" height="30" width="40"
@@ -248,3 +250,4 @@
 </div>
 
 ![Sneck gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/github-contribution-grid-snake-dark.svg)
+![🌊](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
