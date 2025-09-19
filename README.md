@@ -251,3 +251,4 @@
 
 ![Sneck gif](https://github.com/BAD-WOLF/BAD-WOLF/blob/output/github-contribution-grid-snake-dark.svg)
 ![🌊](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+
